@@ -1,0 +1,11 @@
+{
+  "name": "first-plugin",
+  "version": "",
+  "description": "package for my gatsby site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

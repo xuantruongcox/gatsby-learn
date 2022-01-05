@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allUser":{"nodes":[{"name":{"first":"Fred","last":"Parker","title":"Mr"}},{"name":{"first":"مهرسا","last":"صدر","title":"Mrs"}},{"name":{"first":"Siiri","last":"Niska","title":"Mrs"}},{"name":{"first":"Louella","last":"Henry","title":"Miss"}},{"name":{"first":"Julian","last":"Prieto","title":"Mr"}},{"name":{"first":"Nicklas","last":"Rasmussen","title":"Mr"}},{"name":{"first":"اميرحسين","last":"کریمی","title":"Mr"}},{"name":{"first":"Allan","last":"Grant","title":"Mr"}},{"name":{"first":"Tom","last":"Rose","title":"Mr"}},{"name":{"first":"Hugh","last":"Riley","title":"Mr"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
